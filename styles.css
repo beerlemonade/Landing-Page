@@ -154,6 +154,8 @@ a {
     background-color: #3882F6;
     margin: 48px 126px;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     border-radius: 8px;
     gap: 48px;
 }
